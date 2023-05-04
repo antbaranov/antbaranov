@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-
 <h2 align="center">I'm Anton</h2>
-
 <h3 align="center">Welcome to my github page</h3>
 
 <ul>
