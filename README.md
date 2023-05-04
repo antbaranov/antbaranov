@@ -4,10 +4,14 @@
 
 <h3 align="center">Welcome to my github page</h3>
 
-
-- 🌱 I’m currently learning Java
-- 🔭 I'm looking for interesting projects
-- ⚡ I'm improving my skills every day
+<ul>
+  <li>I’m currently learning Java</li>
+<li> 🔭 I'm looking for interesting projects</li>
+<li> ⚡ I'm improving my skills every day</li>
+  </ul>
+  
+My technology stack:
+Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
 
 <!--
 **antbaranov/antbaranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
