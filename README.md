@@ -5,9 +5,9 @@
 <h3 align="center">Welcome to my github page</h3>
 
 <ul>
-  <li>I’m currently learning Java</li>
-<li> 🔭 I'm looking for interesting projects</li>
-<li> ⚡ I'm improving my skills every day</li>
+  <li>🌱I’m currently learning Java</li>
+<li>🔭 I'm looking for interesting projects</li>
+<li>⚡ I'm improving my skills every day</li>
   </ul>
   <p>
 <b>My technology stack:</b><br>
