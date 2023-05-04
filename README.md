@@ -4,6 +4,10 @@
 
 Welcome to my github page
 
+🌱 I’m currently learning Java
+🔭 I'm looking for interesting projects
+⚡ I'm improving my skills every day
+
 <!--
 **antbaranov/antbaranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
