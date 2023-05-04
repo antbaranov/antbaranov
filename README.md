@@ -9,9 +9,10 @@
 <li> 🔭 I'm looking for interesting projects</li>
 <li> ⚡ I'm improving my skills every day</li>
   </ul>
-  
+  <p>
 My technology stack:
 Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
+  </p>
 
 <!--
 **antbaranov/antbaranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
