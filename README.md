@@ -3,10 +3,12 @@
 <h3 align="center">Welcome to my github page</h3>
 
 <ul>
-  <li>🌱I’m currently learning Java</li>
+<li>🌱 I’m currently learning Java</li>
 <li>🔭 I'm looking for interesting projects</li>
 <li>⚡ I'm improving my skills every day</li>
-  </ul>
+</ul>
+
+
   <p>
 <b>My technology stack:</b><br>
 Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
