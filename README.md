@@ -10,7 +10,7 @@
 <li> ⚡ I'm improving my skills every day</li>
   </ul>
   <p>
-My technology stack:
+<b>My technology stack:</b><br>
 Java, Spring Framework, Spring Data JPA, PostgreSQL, REST API, Docker, JDBC, Mockito and more...
   </p>
 
