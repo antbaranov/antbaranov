@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-#### I'm Anton
+<h2 align="center">I'm Anton</h2>
 
-Welcome to my github page
+<h3 align="center">Welcome to my github page</h3>
 
 🌱 I’m currently learning Java
 🔭 I'm looking for interesting projects
